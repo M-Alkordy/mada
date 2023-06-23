@@ -1,0 +1,10 @@
+<svg id="vuesax_twotone_add-circle" data-name="vuesax/twotone/add-circle" xmlns="http://www.w3.org/2000/svg" width="50.074" height="50.074" viewBox="0 0 50.074 50.074">
+  <g id="add-circle">
+    <path id="Vector" d="M20.864,41.728A20.864,20.864,0,1,0,0,20.864,20.926,20.926,0,0,0,20.864,41.728Z" transform="translate(4.173 4.173)" fill="none" stroke="#bac1cc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Group_687" data-name="Group 687" transform="translate(16.691 16.691)" opacity="0.4">
+      <path id="Vector-2" data-name="Vector" d="M0,0H16.691" transform="translate(0 8.346)" fill="none" stroke="#bac1cc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-3" data-name="Vector" d="M0,16.691V0" transform="translate(8.346)" fill="none" stroke="#bac1cc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path id="Vector-4" data-name="Vector" d="M0,0H50.074V50.074H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

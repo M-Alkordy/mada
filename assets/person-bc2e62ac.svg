@@ -1,0 +1,7 @@
+<svg id="vuesax_twotone_profile" data-name="vuesax/twotone/profile" xmlns="http://www.w3.org/2000/svg" width="20.317" height="20.317" viewBox="0 0 20.317 20.317">
+  <g id="profile">
+    <path id="Vector" d="M3.894,7.509a1.539,1.539,0,0,0-.279,0,3.763,3.763,0,1,1,.279,0Z" transform="translate(6.4 1.693)" fill="none" stroke="#bac1cc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" opacity="0.4"/>
+    <path id="Vector-2" data-name="Vector" d="M1.536,1.162c-2.049,1.371-2.049,3.606,0,4.969a8.267,8.267,0,0,0,8.474,0c2.049-1.371,2.049-3.606,0-4.969A8.306,8.306,0,0,0,1.536,1.162Z" transform="translate(4.525 11.164)" fill="none" stroke="#bac1cc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H20.317V20.317H0Z" transform="translate(20.317 20.317) rotate(180)" fill="none" opacity="0"/>
+  </g>
+</svg>
