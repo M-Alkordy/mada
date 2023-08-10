@@ -1,0 +1,145 @@
+@font-face{
+  font-family: 'Neo Sans Arabic';
+  src: url('../assets/fonts/NeoSansArabicMedium.ttf');
+}
+
+@font-face{
+  font-family: 'Cadillac Sans Arabic';
+  src: url('../assets/fonts/Cadillac-Sans-Arabic-Medium.ttf');
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Cadillac Sans Arabic';
+}
+.close{
+  width: 226px;
+  height: 60px;
+  background-color: #2E3092;
+  color: white;
+  font-size: 17px;
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+}
+#app{
+  display: flex;
+  justify-content: space-between;
+  max-width: 100vw;
+/*   height: 100vh; */
+}
+
+.main{
+  width: 84%;
+  background-color: #EDF0F5;
+}
+
+.filter{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2.9167vw;
+}
+
+.filter .list{
+  display: flex;
+  gap: 0.7291vw;
+}
+
+.filter .list button{
+  width: 9.2187vw;
+  height: 46px;
+  background-color: white;
+  border: none;
+  border-radius: 14px;
+  font-size: 0.833vw;
+  color: #4C535F;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 0.7291vw 0 1.4062vw;
+}
+
+.filter .list .drop-down{
+  width: max-content;
+  padding: 0 1.5625vw 0 0.7291vw;
+}
+
+.filter .list span{
+  color: #8D98AA;
+  padding: 0 0.4687vw 0 1.4583vw;
+}
+
+.filter .search{
+  width: 16.3021vw;
+  height: 46px;
+  background-color: white;
+  border-radius:14px;
+  display: flex;
+  align-items: center;
+}
+
+.filter .search button{
+  margin-left: 0.8333vw;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+.filter .search input{
+  width: 92.3954%;
+  height: 100%;
+  border: none;
+  border-radius:14px;
+  background-color: white;
+  direction: rtl;
+  padding-right: 1.4583vw;
+}
+
+.filter .search input::placeholder{
+  font-size: 0.7291vw;
+  color: #CCD3DF;
+}
+
+.filter .search input:focus{
+  outline: none;
+}
+
+.container{
+  margin: 6.2708vh 2.9167vw 2.2708vh;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(2,1fr);
+  row-gap: 4.4444vh;
+  column-gap: 2.5vw;
+/*   height: 50vh; */
+  direction: rtl;
+}
+
+.pagination{
+  direction: rtl;
+  display: flex;
+  gap: 10px;
+  margin-right: 2.9167vw;
+}
+
+.pagination button,
+.pagination .num{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #2E3092;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination .num{
+  background-color: #2e309280;
+}
+.pagination button.active{
+  background-color: #2E3092;
+}

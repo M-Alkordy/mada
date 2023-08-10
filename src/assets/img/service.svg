@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_135408" data-name="Group 135408" transform="translate(-230 -13.096)">
+    <g id="Group_134584" data-name="Group 134584" transform="translate(230 13)">
+      <rect id="Rectangle_110420" data-name="Rectangle 110420" width="30" height="30" rx="6" transform="translate(0 0.096)" fill="#dbdad8" opacity="0"/>
+    </g>
+    <g id="vuesax_twotone_more-circle" data-name="vuesax/twotone/more-circle" transform="translate(-67 -235.904)">
+      <g id="more-circle" transform="translate(300 252)">
+        <path id="Vector" d="M10,20A10,10,0,1,0,0,10,10.029,10.029,0,0,0,10,20Z" transform="translate(2 2)" fill="none" stroke="#abacd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M.495.5H.5" transform="translate(15.502 11.5)" fill="none" stroke="#abacd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.34"/>
+        <path id="Vector-3" data-name="Vector" d="M.495.5H.5" transform="translate(11.501 11.5)" fill="none" stroke="#abacd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.34"/>
+        <path id="Vector-4" data-name="Vector" d="M.495.5H.5" transform="translate(7.5 11.5)" fill="none" stroke="#abacd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.34"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

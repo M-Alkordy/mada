@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1077.538" height="874.011" viewBox="0 0 1077.538 874.011">
+  <defs>
+    <filter id="Union_1" x="0" y="0" width="1077.538" height="874.011" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="1012" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_135695" data-name="Group 135695" transform="translate(-521.733 -182.281)">
+    <g transform="matrix(1, 0, 0, 1, 521.73, 182.28)" filter="url(#Union_1)">
+      <path id="Union_1-2" data-name="Union 1" d="M320.279,802.011a22,22,0,0,1-22-22,22,22,0,0,1-22,22H22a22,22,0,0,1-22-22V22A22,22,0,0,1,22,0H276.278a22,22,0,0,1,22,22,22,22,0,0,1,22-22H983.537a22,22,0,0,1,22,22V780.011a22,22,0,0,1-22,22Z" transform="translate(36 33)" fill="#fff"/>
+    </g>
+    <g id="Repeat_Grid_23" data-name="Repeat Grid 23" transform="translate(562 209)" clip-path="url(#clip-path)">
+      <g transform="translate(-114 -990)">
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(-70 -990)">
+        <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(-26 -990)">
+        <circle id="Ellipse_5-3" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(18 -990)">
+        <circle id="Ellipse_5-4" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(62 -990)">
+        <circle id="Ellipse_5-5" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(106 -990)">
+        <circle id="Ellipse_5-6" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(150 -990)">
+        <circle id="Ellipse_5-7" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(194 -990)">
+        <circle id="Ellipse_5-8" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(238 -990)">
+        <circle id="Ellipse_5-9" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(282 -990)">
+        <circle id="Ellipse_5-10" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(326 -990)">
+        <circle id="Ellipse_5-11" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(370 -990)">
+        <circle id="Ellipse_5-12" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(414 -990)">
+        <circle id="Ellipse_5-13" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(458 -990)">
+        <circle id="Ellipse_5-14" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(502 -990)">
+        <circle id="Ellipse_5-15" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(546 -990)">
+        <circle id="Ellipse_5-16" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(590 -990)">
+        <circle id="Ellipse_5-17" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(634 -990)">
+        <circle id="Ellipse_5-18" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(678 -990)">
+        <circle id="Ellipse_5-19" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(722 -990)">
+        <circle id="Ellipse_5-20" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(766 -990)">
+        <circle id="Ellipse_5-21" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(810 -990)">
+        <circle id="Ellipse_5-22" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+      <g transform="translate(854 -990)">
+        <circle id="Ellipse_5-23" data-name="Ellipse 5" cx="13" cy="13" r="13" transform="translate(114 990)" fill="#edf0f5"/>
+      </g>
+    </g>
+  </g>
+</svg>
